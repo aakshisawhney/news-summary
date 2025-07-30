@@ -1,5 +1,6 @@
 streamlit
-nltk
 feedparser
 newspaper3k
 sumy
+nltk
+
